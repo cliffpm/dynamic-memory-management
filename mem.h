@@ -1,6 +1,4 @@
 /* mem.h is the public header for memory functions 
-   Memory homework, 24AU 
-   Copyright 2024 M. Hazen
 */
 
 #ifndef MEM_H_
