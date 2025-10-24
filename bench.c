@@ -1,6 +1,4 @@
 /* bench.c is the benchmarking /test program for mem memory management
-   Memory homework, 24AU
-   Copyright 2024 M. Hazen
 */
 
 #include <stdlib.h>
