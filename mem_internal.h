@@ -1,7 +1,4 @@
 /* mem_internal.h
-   374, Memory Homework, 24AU
-   Internal declarations for memory system
-   Copyright 2024 mh75
 */
 
 #ifndef MEM_INTERNAL_H_
