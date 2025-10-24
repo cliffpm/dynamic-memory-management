@@ -1,5 +1,4 @@
 /* memory.c
-   Memory Homework, 24AU
    Copyright Cliff Pham 2024
 */
 
